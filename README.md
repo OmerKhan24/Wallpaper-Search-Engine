@@ -8,20 +8,21 @@ The Wallpaper Search Engine is a web application that allows users to search for
 1. **Search Functionality**: Users can enter keywords in the search box to find wallpapers related to their search query.
 2. **Search Results**: The search results are displayed in the interface, showing a collection of wallpapers based on the user's search query.
 3. **Show More**: Users have the option to load more search results by clicking the "Show More" button, providing an extended list of wallpapers.
-4. **Top Icon**: A top icon is available to allow users to quickly navigate back to the top of the page with ease.
 
 ## Technologies Used
 - **HTML**: Used for creating the structure and layout of the web page.
 - **CSS**: Used for styling and layout customization.
 - **JavaScript**: Used for implementing the search functionality and interacting with the Unsplash API.
-- **Font Awesome**: Used for adding icons to the web page.
-- **Swiper**: Used for displaying image sliders (if applicable).
 - **Boxicons**: Used for additional icon styling and customization.
 
 ## Project Structure
 - `index.html`: Contains the HTML structure of the Wallpaper Search Engine.
 - `style.css`: Contains the CSS styling for the web page.
 - `script.js`: Contains the JavaScript code for implementing the search functionality and fetching data from the Unsplash API.
+
+## Attribution
+The Wallpaper Search Engine uses the [Unsplash API](https://unsplash.com/developers) to fetch and display wallpapers. I would like to express our gratitude to Unsplash for providing access to their API and allowing us to integrate their high-quality images into our application.
+
 
 Feel free to customize and enhance the project as needed. If you have any questions or need further assistance, please don't hesitate to reach out.
 
